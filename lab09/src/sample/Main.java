@@ -64,7 +64,7 @@ public class Main extends Application {
         GraphicsContext gc = canvas.getGraphicsContext2D();
         gc.setStroke(color);
         gc.setFill(color);
-        //gc.strokeLine();
+        gc.strokeLine();
     }
 
     public static void main(String[] args) {
