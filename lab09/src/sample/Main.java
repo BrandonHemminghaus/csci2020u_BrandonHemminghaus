@@ -9,9 +9,7 @@ import javafx.stage.Stage;
 import javafx.scene.canvas.Canvas;
 
 import java.io.BufferedReader;
-import java.io.File;
 import java.io.FileReader;
-import java.io.InputStream;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
